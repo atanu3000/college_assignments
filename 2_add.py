@@ -1,4 +1,4 @@
-# WAP to calculate the addition of two number
+# 2. WAP to calculate the addition of two number
 
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))

@@ -1,3 +1,5 @@
+# 6. WAP to calculate area and perimeter of rectangle
+
 length = int(input("Enter the length: "))
 width = int(input("Enter the width: "))
 

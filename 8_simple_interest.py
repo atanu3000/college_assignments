@@ -1,3 +1,5 @@
+# 8. WAP to calculate Simple Insterest where P, R, T are given by user.
+
 p = int(input("Enter principal amount: "))
 r = float(input("Enter rate of interest: "))
 t = int(input("Enter the time: "))

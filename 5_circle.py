@@ -1,3 +1,5 @@
+# 5. WAP to calculate area and perimeter of circle
+
 radius = int(input("Enter the radius: "))
 pi = 3.14159
 

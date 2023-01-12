@@ -1,3 +1,5 @@
+# 7. WAP to convert degree fahrenheit to celsius.
+
 fahrenheit = float(input("Enter temp in fahrenheit: "))
 
 celsius = round(((fahrenheit - 32) * 5/9), 2)

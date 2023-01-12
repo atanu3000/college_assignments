@@ -1,4 +1,4 @@
-# Design a calculator by using arithmatic operation in python programming.
+# 3. Design a calculator by using arithmatic operation in python programming.
 
 a = int(input("Enter the 1st number: "))
 b = int(input("Enter the 2nd number: "))
