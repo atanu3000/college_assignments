@@ -1,4 +1,4 @@
-# WAP a program to wheather a year is leap year or not.
+# WAP to chaeck wheather a year is leap year or not.
 
 year = int(input("Enter a year: "))
 

@@ -1,4 +1,4 @@
-# 17. WAP to check wheather a charecter is vowel or consonant
+# 17. WAP to check wheather a character is vowel or consonant
 
 char = input("Enter a char: ").lower()
 

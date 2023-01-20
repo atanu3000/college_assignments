@@ -1,4 +1,4 @@
-# WAP to clculate the roo of a quadratic equation.
+# 20. WAP to calculate the root of a quadratic equation.
 
 a = int(input("Enter value of a: "))
 b = int(input("Enter value of b: "))
@@ -29,9 +29,9 @@ else:
 # -2.0
 # -3.0
 
-# Enter value of a: 1
-# Enter value of b: 5
-# Enter value of c: 7
+# Enter value of a: 2
+# Enter value of b: 6
+# Enter value of c: 9
 # Imaginary roots
-# (-2.5+0.8660254037844386j)
-# (-2.5-0.8660254037844386j)
+# (-6+6j)
+# (-6-6j)
