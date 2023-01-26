@@ -6,3 +6,7 @@ for i in range(1, last_num+1):
     ans += i**3
 
 print("The result is: ", ans)
+
+# Output:
+# Enter the nth number: 10
+# The result is:  3025

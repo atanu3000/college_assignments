@@ -6,3 +6,6 @@ for i in range(1, 11):
         sum += i**2
 
 print("The result is: ", sum)
+
+# Output:
+# The result is:  220

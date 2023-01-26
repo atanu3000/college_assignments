@@ -7,3 +7,8 @@ for i in range(power):
     res *= base
 
 print("The result: ", res)
+
+# Output:
+# Enter the base: 5
+# Enter the power: 4
+# The result:  625

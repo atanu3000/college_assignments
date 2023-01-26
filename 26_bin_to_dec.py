@@ -10,3 +10,7 @@ while bin > 0:
     i += 1
 
 print("The equivalent decimal: ", dec)
+
+# Output:
+# Enter the binary digit: 1101
+# The equivalent decimal:  13
