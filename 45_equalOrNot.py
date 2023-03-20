@@ -9,7 +9,7 @@ def isEqual(num1, num2):
 a = int(input("Enter first number: "))
 b = int(input("Enter second number:"))
 
-print("The numbers are: ", isEqual(num1(a, b))
+print("The numbers are: ", isEqual(a, b))
 
 '''
 Output:
