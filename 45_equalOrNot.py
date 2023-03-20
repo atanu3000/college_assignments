@@ -1,7 +1,7 @@
 '''
 45. WAP to calculate two number is equal or not using function.'''
 
-def equalOrNot(num1, num2):
+def isEqual(num1, num2):
     if num1 == num2:
         return "Equal"
     return "Not equal"
@@ -9,7 +9,7 @@ def equalOrNot(num1, num2):
 a = int(input("Enter first number: "))
 b = int(input("Enter second number:"))
 
-print("The numbers are: ",equalOrNot(a, b))
+print("The numbers are: ", isEqual(num1(a, b))
 
 '''
 Output:
