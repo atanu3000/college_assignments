@@ -16,8 +16,7 @@ def div(x, y):
     return x / y
 ```
 
-<strong></strong>
-### The both <b><em>calc.py</em></b> and <b><em>main.py</em></b> is stored in same folder.
+### NOTE: &nbsp; The both <b><em>calc.py</em></b> and <b><em>main.py</em></b> is stored in same folder.
 
 ```python
 # This file is named as 'main.py'
@@ -43,3 +42,5 @@ The subtraction is: 5
 The product is: 150
 The quotient is: 1.5
 ```
+
+### Jump to the actual folder 👉 <em><a href="https://github.com/atanu3000/college_assignments_python/tree/main/55_module"> click </a></em>
