@@ -20,3 +20,9 @@ for i in range(l // 2):
 #     list[l - 1 - i] = temp
 
 print(list)
+
+'''
+Output:
+Enter the length of list: 10
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+'''
