@@ -1,4 +1,4 @@
-# 67. wap that accepts different number of arguments and return sum only the possitive values passed to it.
+# 67. wap that accepts different number of arguments and return sum only the positive values passed to it.
 
 a = []
 n = int(input("Enter the no. of nums: "))

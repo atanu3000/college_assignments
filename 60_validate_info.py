@@ -1,4 +1,4 @@
-# 60. WAP to program to valuidate information by using string function.
+# 60. WAP to validate information by using string function.
 
 name = input("Enter your name: ")
 
